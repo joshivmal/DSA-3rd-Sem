@@ -1,0 +1,45 @@
+										Recursion:
+ 
+							When a function calls itself until a specified condition is met.
+
+Main points:  1) base condition.    2) stack overflow / Stack space.    3) recursion.
+
+
+
+									Video 2 -> 5 questions
+
+BackTracking: is the recursive method in which we get the answer/output when returning to the function.
+
+
+5 questions
+
+							           	Video 3 -> Parametrized and Functional Recursion
+
+Parameterized recursion: recursions are those in which we pass the parameter and print the output.
+Functional Recursion: those recursive functions that return the function and take fewer parameters.
+
+									video 4 -> Problems with functional Recursion
+
+Q1 -> Reverse the array using recursion
+Q2 -> Check palindrome using function recursion
+
+									Video 5 -> Multiple recursion calls
+
+Ex-> Fibonacci's series 
+
+									Video 6 -> Recursion on subsequences
+
+Subsequence -> A contiguous/non-contiguous sequence of an array, which follows the order.  
+Ex: 
+                arr[] -> {3,2,1} 
+
+		3 1 2 
+		3 1 
+		3 2 
+		3 
+		1 2 
+		1 
+		2 
+		{} -> empty set.
+
+									Video 7 -> L7. All Kind of Patterns in Recursion | Print All | Print one | Count
